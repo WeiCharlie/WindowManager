@@ -29,7 +29,7 @@ public class SplashActivity extends AppCompatActivity {
             child.setLayoutParams(lp);
 
             container.addView(child);
-            //https://github.com/WeiCharlie/WindowManager.git
+            //
 
             // 测试 ↓
             View childAt = container.getChildAt(0);
