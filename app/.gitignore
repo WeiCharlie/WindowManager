@@ -1,0 +1,31 @@
+# IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+# 名称附带/ ，代表文件夹
+out/
+bin/
+gen/
+local.properties
+
+# AndroidStudio
+build/
+.gradle
+
+# Eclipse project files
+.project
+.settings/
+.classpath
+
+# OS gen
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.bak
+*.tmp
+*.temp
+*.vpp~*
+*.*~
+~*.*
